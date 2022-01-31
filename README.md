@@ -1,7 +1,6 @@
-﻿# ==> Google Services Alternatives <==
+﻿# --> Google Services Alternatives <--
 
 ## Table of Contents
-=================
 
    * [Web Browser](#web-browser-googlecomchrome)
    * [Search Engine](#search-engine-googlecom)
@@ -29,308 +28,308 @@
 
 ## Web Browser: google.com/chrome
 
-= mozilla.org
+- mozilla.org
 
-= duckduckgo.com/app (for Android & iOS only)
+- duckduckgo.com/app (for Android & iOS only)
 
-= bromite.org (for Android only)
+- bromite.org (for Android only)
 
-= vivaldi.com
+- vivaldi.com
 
-= brave.com
+- brave.com
 
-= epicbrowser.com
+- epicbrowser.com
 
 ## Search Engine: google.com
 
-= duckduckgo.com
+- duckduckgo.com
 
-= startpage.com
+- startpage.com
 
-= mojeek.com
+- mojeek.com
 
-= searx.me
+- searx.me
 
-= qwant.com
+- qwant.com
 
-= metager.org
+- metager.org
 
 ## Email Provider: gmail.com
 
-= protonmail.com
+- protonmail.com
 
-= mail.disroot.org
+- mail.disroot.org
 
-= tutanota.com
+- tutanota.com
 
-= startmail.com
+- startmail.com
 
-= mailbox.org
+- mailbox.org
 
-= mailfence.com
+- mailfence.com
 
-= posteo.de
+- posteo.de
 
 ## Video Platform: youtube.com
 
-= joinpeertube.org
+- joinpeertube.org
 
-= d.tube
+- d.tube
 
 ## Android Store: play.google.com
 
-= f##droid.org
+- f-droid.org
 
-= aptoide.com
+- aptoide.com
 
 ## Maps: maps.google.com
 
-= openstreetmap.org
+- openstreetmap.org
 
-= qwant.com/maps
+- qwant.com/maps
 
-= maphub.net
+- maphub.net
 
-= osmand.net
+- osmand.net
 
 ## Video Conference: meet.google.com
 
-= jitsi.org
+- jitsi.org
 
 ## Messaging: chat.google.com
 
-= signal.org
+- signal.org
 
-= getsession.org
+- getsession.org
 
-= element.io
+- element.io
 
-= status.im
+- status.im
 
-= threema.ch
+- threema.ch
 
-= briarproject.org
+- briarproject.org
 
-= tox.chat
+- tox.chat
 
-= cwtch.im
+- cwtch.im
 
-= delta.chat
+- delta.chat
 
-= wire.com
+- wire.com
 
 ## Contacts & Calendar Sync: contacts.google.com
 
-= etesync.com
+- etesync.com
 
-= Simple Contacts: Address Book (for Android only)
+- Simple Contacts: Address Book (for Android only)
 
-= \*\* any email services \*\*
+- \*\* any email services \*\*
 
 ## Cloud Storage: drive.google.com
 
-= mega.io
+- mega.io
 
-= filen.io
+- filen.io
 
-= sync.com
+- sync.com
 
-= pcloud.com
+- pcloud.com
 
-= tresorit.com
+- tresorit.com
 
-= internxt.com
+- internxt.com
 
-= idrive.com
+- idrive.com
 
-= icedrive.net
+- icedrive.net
 
-= nordlocker.com
+- nordlocker.com
 
 ## Translator: translate.google.com
 
-= deepl.com/translator
+- deepl.com/translator
 
-= lingva.ml
+- lingva.ml
 
-= libretranslate.com
+- libretranslate.com
 
-= translate.com
+- translate.com
 
-= linguee.com
+- linguee.com
 
-= dict.cc
+- dict.cc
 
 ## blogging: blogger.com
 
-= wordpress.com
+- wordpress.com
 
-= medium.com
+- medium.com
 
-= write.as
+- write.as
 
-= ghost.org
+- ghost.org
 
 ## Notebook: keep.google.com
 
-= evernote.com
+- evernote.com
 
-= joplinapp.org
+- joplinapp.org
 
-= app.standardnotes.com
+- app.standardnotes.com
 
-= turtlapp.com
+- turtlapp.com
 
-= obsidian.md
+- obsidian.md
 
 ## Authentication: Google Authenticator
 
-= Authy
+- Authy
 
-= andOTP
+- andOTP
 
-= Ravio OTP
+- Ravio OTP
 
-= Aegis
+- Aegis
 
-= FreeOTP
+- FreeOTP
 
 ## Docs: docs.google.com
 
-= OnlyOffice
+- OnlyOffice
 
-= OpenOffice
+- OpenOffice
 
-= LibreOffice
+- LibreOffice
 
-= ZohoDocs
+- ZohoDocs
 
-= CryptPad
+- CryptPad
 
-= EtherPad
+- EtherPad
 
-= Mailfence Docs
+- Mailfence Docs
 
-= Cryptee
+- Cryptee
 
-= EtherCalc
+- EtherCalc
 
 ## Password Manager: passwords.google.com
 
-= Bitwarden
+- Bitwarden
 
-= NordPass
+- NordPass
 
-= LastPass
+- LastPass
 
 ## Android Keyboard: GBoard
 
-= AnySoftKeyboard
+- AnySoftKeyboard
 
-= OpenBoard
+- OpenBoard
 
-= Simple Keyboard
+- Simple Keyboard
 
-= FlorisBoard
+- FlorisBoard
 
 ## Android: android.com
 
-= lineageos.org
+- lineageos.org
 
-= ubuntu-touch.io
+- ubuntu-touch.io
 
-= calyxos.org
+- calyxos.org
 
-= grapheneos.org
+- grapheneos.org
 
-= divestos.org
+- divestos.org
 
 ## Database: Firebase
 
-= Back4App
+- Back4App
 
-= AWS Amplify
+- AWS Amplify
 
-= Couchbase
+- Couchbase
 
-= RxDB
+- RxDB
 
-= Parse
+- Parse
 
-= Kuzzle
+- Kuzzle
 
-= appwrite
+- appwrite
 
-= Deployd
+- Deployd
 
-= supabase
+- supabase
 
 ## Analytics: Google Analytics
 
-= Fathom
+- Fathom
 
-= GoSquared
+- GoSquared
 
-= Woopra
+- Woopra
 
-= Semrush
+- Semrush
 
-= Heap
+- Heap
 
-= Matomo
+- Matomo
 
-= Simple Analytics
+- Simple Analytics
 
-= Mixpanel
+- Mixpanel
 
 ## Ads: Adsense
 
-= PropellerAds
+- PropellerAds
 
-= MediaNet
+- MediaNet
 
-= Amazon ads Sponsored Display
+- Amazon ads Sponsored Display
 
-= Viglink
+- Viglink
 
-= Adversal
+- Adversal
 
-= BuySellAds
+- BuySellAds
 
-= ylliX
+- ylliX
 
-= Bidvertiser
+- Bidvertiser
 
-= Infolinks
+- Infolinks
 
-= Taboola
+- Taboola
 
-= Adcash
+- Adcash
 
 ## Cloud Services: Google Cloud
 
-= AWS (Amazon Web Services)
+- AWS (Amazon Web Services)
 
-= Microsoft Azure
+- Microsoft Azure
 
-= IBM Cloud
+- IBM Cloud
 
-= OVH Cloud
+- OVH Cloud
 
-= Oracle Cloud Infrastructure
+- Oracle Cloud Infrastructure
 
-= SiteGround Cloud Hosting
+- SiteGround Cloud Hosting
 
-= Alibaba Cloud
+- Alibaba Cloud
 
-= Vultr
+- Vultr
 
-= Linode
+- Linode
 
-= DigitalOcean
+- DigitalOcean
 
-= Cloudways
+- Cloudways
 
-= ScalaHosting
+- ScalaHosting
 
-= Kamatera
+- Kamatera

@@ -30,7 +30,7 @@
  = d.tube
 
 -> Android Store: play.google.com
- = f->droid.org
+ = f-droid.org
  = aptoide.com
 
 -> Maps: maps.google.com
