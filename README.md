@@ -1,6 +1,33 @@
-﻿==> Google Services Alternatives <==
+﻿# ==> Google Services Alternatives <==
 
--> Web Browser: google.com/chrome
+## Table of Contents
+=================
+
+   * [Web Browser](#web-browser-googlecomchrome)
+   * [Search Engine](#search-engine-googlecom)
+   * [Email Provider](#email-provider-gmailcom)
+   * [Video Platform](#video-platform-youtubecom)
+   * [Android Store](#android-store-playgooglecom)
+   * [Maps](#maps-mapsgooglecom)
+   * [Video Conference](#video-conference-meetgooglecom)
+   * [Messaging](#messaging-chatgooglecom)
+   * [Contacts &amp; Calendar Sync](#contacts--calendar-sync-contactsgooglecom)
+   * [Cloud Storage](#cloud-storage-drivegooglecom)
+   * [Translator](#translator-translategooglecom)
+   * [blogging](#blogging-bloggercom)
+   * [Notebook](#notebook-keepgooglecom)
+   * [Authentication](#authentication-google-authenticator)
+   * [Docs](#docs-docsgooglecom)
+   * [Password Manager](#password-manager-passwordsgooglecom)
+   * [Android Keyboard](#android-keyboard-gboard)
+   * [Android](#android-androidcom)
+   * [Database](#database-firebase)
+   * [Analytics](#analytics-google-analytics)
+   * [Ads](#ads-adsense)
+   * [Cloud Services](#cloud-services-google-cloud)
+
+
+## Web Browser: google.com/chrome
 
 = mozilla.org
 
@@ -14,7 +41,7 @@
 
 = epicbrowser.com
 
--> Search Engine: google.com
+## Search Engine: google.com
 
 = duckduckgo.com
 
@@ -28,7 +55,7 @@
 
 = metager.org
 
--> Email Provider: gmail.com
+## Email Provider: gmail.com
 
 = protonmail.com
 
@@ -44,19 +71,19 @@
 
 = posteo.de
 
--> Video Platform: youtube.com
+## Video Platform: youtube.com
 
 = joinpeertube.org
 
 = d.tube
 
--> Android Store: play.google.com
+## Android Store: play.google.com
 
-= f->droid.org
+= f##droid.org
 
 = aptoide.com
 
--> Maps: maps.google.com
+## Maps: maps.google.com
 
 = openstreetmap.org
 
@@ -66,11 +93,11 @@
 
 = osmand.net
 
--> Video Conference: meet.google.com
+## Video Conference: meet.google.com
 
 = jitsi.org
 
--> Messaging: chat.google.com
+## Messaging: chat.google.com
 
 = signal.org
 
@@ -92,7 +119,7 @@
 
 = wire.com
 
--> Contacts & Calendar Sync: contacts.google.com
+## Contacts & Calendar Sync: contacts.google.com
 
 = etesync.com
 
@@ -100,7 +127,7 @@
 
 = \*\* any email services \*\*
 
--> Cloud Storage: drive.google.com
+## Cloud Storage: drive.google.com
 
 = mega.io
 
@@ -120,7 +147,7 @@
 
 = nordlocker.com
 
--> Translator: translate.google.com
+## Translator: translate.google.com
 
 = deepl.com/translator
 
@@ -134,7 +161,7 @@
 
 = dict.cc
 
--> blogging: blogger.com
+## blogging: blogger.com
 
 = wordpress.com
 
@@ -144,7 +171,7 @@
 
 = ghost.org
 
--> Notebook: keep.google.com
+## Notebook: keep.google.com
 
 = evernote.com
 
@@ -156,7 +183,7 @@
 
 = obsidian.md
 
--> Authentication: Google Authenticator
+## Authentication: Google Authenticator
 
 = Authy
 
@@ -168,7 +195,7 @@
 
 = FreeOTP
 
--> Docs: docs.google.com
+## Docs: docs.google.com
 
 = OnlyOffice
 
@@ -188,7 +215,7 @@
 
 = EtherCalc
 
--> Password Manager: passwords.google.com
+## Password Manager: passwords.google.com
 
 = Bitwarden
 
@@ -196,7 +223,7 @@
 
 = LastPass
 
--> Android Keyboard: GBoard
+## Android Keyboard: GBoard
 
 = AnySoftKeyboard
 
@@ -206,11 +233,11 @@
 
 = FlorisBoard
 
--> Android: android.com
+## Android: android.com
 
 = lineageos.org
 
-= ubuntu->touch.io
+= ubuntu-touch.io
 
 = calyxos.org
 
@@ -218,7 +245,7 @@
 
 = divestos.org
 
--> Database: Firebase
+## Database: Firebase
 
 = Back4App
 
@@ -238,7 +265,7 @@
 
 = supabase
 
--> Analytics: Google Analytics
+## Analytics: Google Analytics
 
 = Fathom
 
@@ -256,7 +283,7 @@
 
 = Mixpanel
 
--> Ads: Adsense
+## Ads: Adsense
 
 = PropellerAds
 
@@ -280,7 +307,7 @@
 
 = Adcash
 
--> Cloud Services: Google Cloud
+## Cloud Services: Google Cloud
 
 = AWS (Amazon Web Services)
 

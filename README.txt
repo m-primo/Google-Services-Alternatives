@@ -122,7 +122,7 @@
 
 -> Android: android.com
  = lineageos.org
- = ubuntu->touch.io
+ = ubuntu-touch.io
  = calyxos.org
  = grapheneos.org
  = divestos.org
